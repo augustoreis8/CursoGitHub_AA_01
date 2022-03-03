@@ -1,4 +1,20 @@
-1) O que é um repositório?
-2) Qual a diferença entre o Git e Github?
-3) Porque utilizar contole de versão para os arquivos de um projeto de desenvolvimento de software?
-4) Quais vantagens você enxerga no Git? Você utilizaria em seu projeto?
+1) O que é um repositório? 
+- Repositório é onde guardamos nossos arquivos.
+
+2) Qual a diferença entre o Git e Github? 
+- A diferença entre os dois é que, enquanto o Github é um mais uma rede social 
+para exibir e compartilhar as evoluções de seus projetos, mostrando sempre a ultima atualização feita. O Git é onde 
+realmente é feito o controle de versão, nele, após a modificação de algum projeto, salvamos o arquivo e mandamos para ser 
+exibido no Github.
+ 
+3) Porque utilizar contole de versão para os arquivos de um projeto de desenvolvimento de software? 
+- Utilizar o controle de versão é importante pois, com ele os integrantes do desenvolvimento sempre estarão na mesma 
+"página", trabalhando sempre com o ultimo arquivo modificado. Além disso o controle de versão também é importante pois 
+dessa maneira estará salvando o andamento do projeto na nuvem, evitando assim chance de perder-lo devido a um problema 
+físico. E também graças ao controle de versão, caso haja um problema na ultima modificação, sempre é possível voltar 
+para qualquer arquivo anterior a ela.
+
+4) Quais vantagens você enxerga no Git? Você utilizaria em seu projeto? 
+- Para mim, as vantagens do git é que ele é simples e fácil de usar, mesmo com pouca experiência, é possível fazer a 
+alteração de algum arquivo e exibi-lo no github em poucos passos. Outra vantagem também é que o git é auto-explicativo,
+dessa maneira qualquer informação importante ele ira nos mostrar na tela. Sim, eu utilizaria o git no meu projeto.
